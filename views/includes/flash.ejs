@@ -1,0 +1,18 @@
+<% if(success && success.length) { %>
+    <div class="alert alert-success alert-dismissible fade show col-6 offset-3" role="alert"><%= success %>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+<% } %>
+<!-- we will include this before body start cause we want to show it after nav-bar and before our body -->
+<!-- ye success vahi variable hai jisee ham nai app.js mai res.local mai save kiya tha -->
+
+<!-- agar ham if mai siraf success likenge tab bhi o hame body mai dekyi dega cause vo ek array hai aur array to exist karta hai but hali hai -->
+ <!-- so ham oske saat ye karenge k oske length ko bhi AND mai include karenge k agar length hai too tab print karna varna hali array ko print nahi karna -->
+  <!-- now is baar refresh karne sai empty print nahi cause sucess exist karta hai but length 0 hai -->
+
+  <!-- same we will create for errors -->
+   <% if(error && error.length) { %>
+    <div class="alert alert-danger alert-dismissible fade show col-6 offset-3" role="alert"><%= error %>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+<% } %>
