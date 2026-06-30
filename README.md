@@ -23,7 +23,3 @@
 **Authentication:** Passport.js
 **Image Storage:** Cloudinary
 **Maps:** Mapbox
-
-## Live Demo
-
-🔗 [https://wanderlust-k5g7.onrender.com](https://wanderlust-k5g7.onrender.com)
