@@ -63,15 +63,7 @@ This project was built to get hands-on, end-to-end full-stack experience — des
 
 3. **Set up environment variables**
 
-   Create a `.env` file in the root directory:
-   ```env
-   ATLASDB_URL=your_mongodb_connection_string
-   SECRET=your_session_secret
-   CLOUD_NAME=your_cloudinary_cloud_name
-   CLOUD_API_KEY=your_cloudinary_api_key
-   CLOUD_API_SECRET=your_cloudinary_api_secret
-   MAP_TOKEN=your_mapbox_access_token
-   ```
+   Create a `.env` file in the root directory and setup on according to your thought.
 
 4. **Start the server**
    ```bash
@@ -101,6 +93,3 @@ wanderlust/
 
 
 
-## 🙌 Acknowledgements
-
-Built as a learning project while working through full-stack MERN development — inspired by Airbnb's UX and functionality.
