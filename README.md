@@ -1,4 +1,4 @@
-# WanderLust -
+# WanderLust -->
 
 # WanderLust is a full-stack Airbnb-inspired web application where users can browse, list, and book unique places to stay. It's built with the MERN-style stack (MongoDB, Express, Node.js) using EJS for templating, and includes real-world features like image uploads, interactive maps, and secure user authentication.
 
