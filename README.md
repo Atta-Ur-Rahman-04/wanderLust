@@ -2,14 +2,6 @@
 
 A full-stack Airbnb-inspired web application where users can browse, list, and book unique places to stay — built to master the fundamentals of full-stack development, from database design to authentication, file uploads, and deployment.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-
 ---
 
 ##  About the Project
@@ -47,7 +39,7 @@ This project was built to get hands-on, end-to-end full-stack experience — des
 
 ---
 
-##  Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -107,7 +99,6 @@ wanderlust/
 └── app.js             # App entry point
 ```
 
----
 
 
 ## 🙌 Acknowledgements
