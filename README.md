@@ -2,6 +2,7 @@
 
 A full-stack Airbnb-inspired web application where users can browse, list, and book unique places to stay — built to master the fundamentals of full-stack development, from database design to authentication, file uploads, and deployment.
 
+
 ---
 
 ##  About the Project
