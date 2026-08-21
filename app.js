@@ -54,7 +54,7 @@ store.on("error", (err) => {
   console.log("error in mongosession store", err);
 });
 
-// now we will pass the store and for now our session information will be store in mongodb atlas
+// now we will pass the store and for now our session information will be store in mongodb atlas.
 const sessionOption = {
   store,
   secret: process.env.SECRET,
