@@ -10,6 +10,8 @@ WanderLust is a listings and booking platform inspired by Airbnb. Users can expl
 
 This project was built to get hands-on, end-to-end full-stack experience — designing a MongoDB schema, building a RESTful Express backend, implementing secure authentication with Passport.js, integrating third-party services (Cloudinary, Mapbox), and deploying a production-ready app on Render.
 
+
+**Live Demo:** [wanderlust-k5g7.onrender.com](https://wanderlust-k5g7.onrender.com/listings)
 ---
 
 ##  Features
